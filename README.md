@@ -1,3 +1,4 @@
+![logo](https://media.licdn.com/dms/image/C5616AQGefpy93KIcfA/profile-displaybackgroundimage-shrink_350_1400/0/1642592953026?e=1683763200&v=beta&t=J_bGEEZxctrsUv_TWoaHBdOl_oQENYN1tHQXssmcQrE)
 <h1 align="center">Hi 👋, I'm Sathish Rachuri</h1>
 <h3 align="center">A passionate Machine Learning and Bigdata from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
