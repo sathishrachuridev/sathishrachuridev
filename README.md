@@ -1,20 +1,20 @@
 
 <h1 align="center">Hi 👋, I'm Sathish Rachuri</h1>
-<h3 align="center">I Am passionate about Machine Learning and Bigdata , full stack development from India</h3>
+<h3 align="center">I Am passionate about Mechanical engineering , computaional science and ML , scientific computing from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathishrachuridev&label=Profile%20views&color=0e75b6&style=flat" alt="sathishrachuridev" /> </p>
 
-- 🌱 I’m currently learning **Blockchain development**
+- 🌱 I’m currently learning **Scientific Computing**
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🌱 I’m currently learning **CAE**
 
 - 📝 I regularly write articles on (Linkedin Profile)
 
-- 📫 How to reach me **https://www.linkedin.com/in/sathish-rachuri-81b6331a4/**
+- 📫 How to reach me **https://www.linkedin.com/in/sathish-rachuri**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sathish-rachuri-81b6331a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathish-rachuri-81b6331a4" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sathish-rachuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathish-rachuri-81b6331a4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
